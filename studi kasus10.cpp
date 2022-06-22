@@ -45,7 +45,7 @@ class studi{
       cout << "\nNama ke-" << i+1 << " : ";
       cout << *nama ;
       nama += 1;
-      cout << "\nNim : " ;
+      cout << "\nNim : ";
       cout << *nim ;
       nim += 1;
     }

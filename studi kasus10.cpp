@@ -57,6 +57,5 @@ int main(){
   studi studi;
   studi.dwi();
   studi.lifa();
-  studi.qonita();
-  
+  studi.qonita(); 
 }
